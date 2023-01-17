@@ -1,6 +1,10 @@
-# Projects: Android-Based Application for Wearable Health Monitoring Devices 
-# Purpose: this app is designed to connect with  wearable devices via Bluetooth and is used for measuring and collecting data from the body motions of patients
-# Functions: this app supports sensors, including an accelerometer, magnetometer, gyroscope, Gpio(s), etc. 
-# Version: the version of the app is the same as the app in the "poster" file, and please refer to the "poster" file for app details
-# the app is built based on the MetaBase app 
-# please let me know if you wish to refer to the code 
+# MetaBase Android App #
+
+This app is the App you see on the App store for Android to use our MetaWear/MetaMotion sensors.
+
+For more information about the MetaWear platform, check out our website at [https://mbientlab.com](https://mbientlab.com).
+
+## Build ##
+The API was built in Android Studio 2.3.3 and updated to 4.1.3. 
+
+It is targeted for Android 10/11 (SDK 30/29) with Android N (SDK 24) as the minimum required SDK, and requires a JDK compiler compliance level of 11.
